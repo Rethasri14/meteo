@@ -38,6 +38,11 @@ header {
   margin-left: 5px;
   border-radius: 6px;
   color: white;
+  cursor: pointer;
+}
+
+.search-form-button :hover {
+  background-color: #7643ff;
 }
 
 main {
